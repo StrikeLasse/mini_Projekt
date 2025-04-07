@@ -1,2 +1,9 @@
+#Aufgabe_3
 
-fnndfndn
+zahl1 = int(input("gib die erste Zahl ein: "))
+zahl2 = int(input("gib die zweite Zahl ein: "))
+rechenoperator = (input("gib einen Rechenoperator ein, sprich (+, -, *, /): "))
+
+
+Lösung = int(zahl1, rechenoperator, zahl2)
+print(Lösung)
